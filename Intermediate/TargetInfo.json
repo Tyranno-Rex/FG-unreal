@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FG",
+			"Path": "..\\Source\\FG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FGEditor",
+			"Path": "..\\Source\\FGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
